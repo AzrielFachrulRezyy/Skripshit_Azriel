@@ -4,3 +4,5 @@ Dengan Judul "Sistem Pendukung Keputusan Pemilihan Ekstrakurikuler Menggunakan M
 Folder Bahan jurnal adalah folder daftar pustaka
 
 Terdapat juga referensi dari website Sistem Pendukung Keputusan Menggunakan Metode PSI
+
+❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️
