@@ -1,0 +1,8 @@
+Fitur untuk user :
+- Mengakses informasi mengenai MIN 4 dan ekstrakurikuler
+- Mengisi form kepuasan ekstrakurikuler
+
+Fitur Admin :
+- Mengakses halaman admin seperti hitung hitungan dll (Seperti Web yang sudah ada)
+
+(UNTUK KONDISI ROLES NANTI HUBUNGI RIZKI)
